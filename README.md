@@ -1,5 +1,5 @@
 This software is created for Red Crown company, Saint-Petersburg, Russia and all rights belong to this company. 
-In this repo I posted only a few files just to evaluate my programming skills 
+In this repo I posted only a few files just to demonstrate my programming skills 
 
 The goal of this programm is to generate optimized margin for the sevices of the logistic company. Actually, this software could be use 
 at any company that have hourly changes in customer demand. This software help to maximize revenue. 
